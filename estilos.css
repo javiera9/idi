@@ -1,0 +1,51 @@
+#cabecera{
+    background-color:lavender;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-small;
+    margin: 10px
+}
+
+#titulo{
+    background:lightgray;
+    color: black;
+    margin: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+#subtitulo{
+    background: lavender;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin: 20px
+}
+#foto{
+    margin: 5px;
+    border: solid 8px lightblue;
+    float: right
+}
+
+#fotop{
+    margin: 5px;
+    border: solid 8px lightblue;
+    float: left
+}
+
+.texto{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin: 100px 
+}
+
+.divi{
+    margin: 20px;
+    background: blanchedalmond
+}
+
+#lista{
+    background: lavender;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    top: 1000px;
+    left: 550px
+}
